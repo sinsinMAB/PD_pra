@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Touch_App5</string>
+    <string name="text_message">どちらを選ぶ？</string>
+    <string name="button_text_cat">🐱</string>
+    <string name="button_text_dog">🐶</string>
+    <string name="text_message_cat">にゃーにゃー!</string>
+    <string name="text_message_dog">わんわん!</string>
+</resources>
